@@ -1,6 +1,6 @@
 # CAEN-Connect-Tutorial
 
-***NOTE: BEFORE you read the rest of the tutorial, do MAKE SURE that you are a student attending the University of Michigan, Ann Arbor (preferably a College of Engineering student). Though this tutorial may also apply to other similar situations, it will be your responbility to learn to adapt. Cheers =P***
+***NOTE: BEFORE you read the rest of the tutorial, MAKE SURE that you are a student attending the University of Michigan, Ann Arbor (preferably a College of Engineering student). Though this tutorial may also apply to other similar situations, it will be your responbility to learn to adapt. Cheers =P***
 
 ## Introduction
 
