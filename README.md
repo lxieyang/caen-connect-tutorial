@@ -117,7 +117,7 @@ To practice before messing up with your code/projects, you could:
 
 
 ## About
-I created this tutorial when I was TAing **EECS484 Database Management Systems** at the University of Michigan, Ann Arbor. I would expect less situations where we help you modified the code and you want to run it right afterwards, so you ~~email the latest version to yourself, log into CAEN using VNC, open up a browser, download it, put into the right directory, and then~~ run it.
+I created this tutorial when I was TAing **EECS484 Database Management Systems** at the University of Michigan, Ann Arbor. I would expect less situations where we helped you modify the code and you want to run it right afterwards, so you ~~email the latest version to yourself, log into CAEN using VNC, open up a browser, download it, put into the right directory, and then~~ run it.
 
 Thanks for putting up with my ***crappy non-native*** English. Hope this could somehow make your life easier. 
 
