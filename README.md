@@ -81,7 +81,17 @@ Now, to make this happen, all you need is a [sublime text](https://www.sublimete
 	![sync](./pic/sync.jpg)
 	Go ahead and select `Yes` when asked for confirmation. This sync the local folder with the remote one on CAEN, meaning, everything in your project folder on CAEN machine is now **identical** to the ones in your local project folder. Yay!
 	
-4. **Other possibilities**
+4. **Run your project on CAEN**
+
+	Now is the time you **ssh**(remote log in) onto CAEN Linux and run your porjects! To remote log in your CAEN Linux account, please type the following script into your terminal:
+	
+	```sh
+	ssh your-uniqname@login-course.engin.umich.edu
+	```
+	
+	Please change `your-uniqname` to your actual **uniqname**. I assume you could take it from here =P
+	
+5. **Other possibilities**
 
 	Note that there are other possibilities to explore with ***Sublime SFTP***. What I gave you is just the **[MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)**, so you could get going on the rest of your journey.
 	
