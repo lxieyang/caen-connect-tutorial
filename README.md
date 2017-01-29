@@ -96,3 +96,21 @@ When using git, please add `sftp-config.json` to your `.gitignore` file before y
 #### Your ideas?
 Please shoot me an [email](mailto:lxieyang@umich.edu) to remind me of anything you can think of that should be kept in mind when using SFTP. I would update this tutorial regularly and rest assured your contribution will be referenced and highlighted. I truly appreciate your effort in helping more folks live their life more easily.
 
+## Quick Start
+To practice before messing up with your code/projects, you could:
+
+- Instal Sublime Text
+- Install Package Control
+- Clone this repo, and change the filename `sftp-config.example.json` to `sftp-config.json`. Modify its content according to the instructions above.
+- **Git** the folder!
+- Play with the stuff in `sample-project` on CAEN! Best wishes!
+
+
+## About
+I created this tutorial when I was TAing **EECS484 Database Management Systems** at the University of Michigan, Ann Arbor. I would expect less situations where we help you modified the code and you want to run it right afterwards, so you ~~email the latest version to yourself, log into CAEN using VNC, open up a browser, download it, put into the right directory, and then~~ run it.
+
+Thanks for putting up with my ***crappy non-native*** English. Hope this could somehow make your life easier. 
+
+Best,
+
+[Xieyang](http://lxieyang.github.io)
