@@ -99,7 +99,7 @@ Now, to make this happen, all you need is a [sublime text](https://www.sublimete
 ## Things to Keep in Mind
 
 #### Version Control
-Please do not forget to do version controls, such as [git](https://en.wikipedia.org/wiki/Git), when working with SFTP. Somewhere down the line, when you accidently chose to ***Sync Remote -> Local*** or whatever operations that completely messes up / wipes out your local **repo** (notice that I use the word **repo** here, and you should know what I mean by that), **git** will save you. ***Please refrain from any impulse to curse me if you don't have your project git-ted. I told you git it. I told you.***
+Please do not forget to do version controls, such as [git](https://en.wikipedia.org/wiki/Git), when working with SFTP. Somewhere down the line, when you accidently chose to ***Sync Remote -> Local*** or whatever operations that completely messes up / wipes out your local **repo** (notice that I use the word **repo** here, and you should know what I mean by that), **git** will save you. ***Please refrain from any impulse to curse me if you don't have your project git-ted. I told you to git it. I told you.***
 
 When using git, please add `sftp-config.json` to your `.gitignore` file before you commit to a remote repository ***(you don't want to expose your password to other folks right?)***. 
 
