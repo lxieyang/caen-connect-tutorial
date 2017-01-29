@@ -75,7 +75,7 @@ Now, to make this happen, all you need is a [sublime text](https://www.sublimete
 
 	Now, congratulations! You are almost there! Open up your root/parent project directory in sublime text. Actually create a project folder to hold all your project files (let's say `eecs484-project-01`). Change directory into it, create a file in it, do some edits, and click **File => Save** (or **`Cmd-S`** in Mac). This will automatically upload the file you just created to CAEN. Automatically. Automatically. ***(No need to email yourself the code and download it from CAEN / push your code to github and pull it on CAEN / copy your file into a flash drive and stick it onto a CAEN machine / etc)***.
 
-3. **Sync Local -> Remote**: 
+3. **Sync Local -> Remote** 
 	
 	Note that `upload_on_save` will dumbly upload each file you saved to CAEN. But if you delete it / rename it locally, the version on CAEN persists. This may cause serious problems like ***multiple includes, naming conflict, etc***. To save, you could use the **Sync** functionality of **Sublime SFTP**. To do this: **Right click** on your project folder, select **SFTP/FTP** => **Sync Local -> Remote**. It's illustrated below:
 	![sync](./pic/sync.jpg)
