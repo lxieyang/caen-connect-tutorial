@@ -79,7 +79,7 @@ Now, to make this happen, all you need is a [sublime text](https://www.sublimete
 	
 	Note that `upload_on_save` will dumbly upload each file you saved to CAEN. But if you delete it / rename it locally, the version on CAEN persists. This may cause serious problems like ***multiple includes, naming conflict, etc***. To save, you could use the **Sync** functionality of **Sublime SFTP**. To do this: **Right click** on your project folder, select **SFTP/FTP** => **Sync Local -> Remote**. It's illustrated below:
 	![sync](./pic/sync.jpg)
-	Go ahead and select `Yes` when asked for confirmation. This sync the local folder with the remote one on CAEN, meaning, everything in your project folder on CAEN machine is now **identical** to the ones in your local project folder. Yay!
+	Go ahead and select `Yes` when asked for confirmation. This syncs the local folder with the remote one on CAEN, meaning, everything in your project folder on CAEN machine is now **identical** to the ones in your local project folder. Yay!
 	
 4. **Run your project on CAEN**
 
