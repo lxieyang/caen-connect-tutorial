@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**cane-connect-tutorial** walks through with you the way to sync your local project folder to your remote CAEN (Linux) machine **instantly** using **SFTP**, so you could ssh into CAEN, and do the stuff that you want CAEN to do. 
+**caen-connect-tutorial** walks through with you the way to sync your local project folder to your remote CAEN (Linux) machine **instantly** using **SFTP**, so you could ssh into CAEN, and do the stuff that you want CAEN to do. 
 
 ## Possible Cases of Usage
 
