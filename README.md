@@ -2,6 +2,8 @@
 
 ***NOTE: BEFORE you read the rest of the tutorial, MAKE SURE that you are a student attending the University of Michigan, Ann Arbor (preferably a College of Engineering student). Though this tutorial may also apply to other similar situations, it will be your responbility to learn to adapt. Cheers =P***
 
+![umich](./pic/umich.png)
+
 ## Introduction
 
 **caen-connect-tutorial** walks through with you the way to sync your local project folder to your remote CAEN (Linux) machine **instantly** using **SFTP**, so you could ssh into CAEN, and do the stuff that you want CAEN to do. 
@@ -18,10 +20,12 @@ Possible scenarios of use including:
 
 Now, to make this happen, all you need is a [sublime text](https://www.sublimetext.com) editor (More text editor options are to come as soon as I figure them out).
 
+![sublime](./pic/sublime.png)
+
 #### Some Preparations
 1. Go ahead to [www.sublimetext.com](https://www.sublimetext.com) to get the latest version of sublime text installed on your machine (Mac/PC/Linux). Note that it doesn't matter whether you install version 2 or 3. They all works. (Skip if you already have done it in the past.)
 2. Install **Package Control**. [Here](https://packagecontrol.io/installation)'s how you could do it, or you could google it by yourself. (Skip if you already have done it in the past.)
-3. Hit `Cmd-Shift-P` if you are working on a Mac (`Ctrl-Shift-P` on PC) to open up the prompt. Type `Install Package` and hit `Enter`. In the next prompt, type **`Sublime SFTP`** and hit `Enter`. The installation will perform automatically. Restart your editor after this.
+3. Hit `Cmd-Shift-P` if you are working on a Mac (`Ctrl-Shift-P` on PC) to open up the prompt. Type `Install Package` and hit `Enter`. In the next prompt, type **`SFTP`** and hit `Enter`. The installation will perform automatically. Restart your editor after this.
 
 #### Real Magic
 1. **Configurations**
@@ -116,6 +120,11 @@ To practice before messing up with your code/projects, you could:
 - Play with the stuff in `sample-project` on CAEN! Best wishes!
 
 
+## Contributors
+- Special thanks to **Joshua Agby** for:
+	- pointting out that the name of the plugin is actually `SFTP` instead of `Sublime SFTP`. So please type `SFTP` when searching for the plugin in your package control.
+	- providing an alternative `remote_path` in case of the `Folder does not exist` error, which is `/your-uniqname/path/to/your/project/folder`.
+
 ## About
 I created this tutorial when I was TAing **EECS484 Database Management Systems** at the University of Michigan, Ann Arbor. I would expect less situations where we helped you modify the code and you want to run it right afterwards, so you ~~email the latest version to yourself, log into CAEN using VNC, open up a browser, download it, put into the right directory, and then~~ run it.
 
@@ -124,3 +133,5 @@ Thanks for putting up with my ***crappy non-native*** English. Hope this could s
 Best,
 
 [Xieyang](http://lxieyang.github.io)
+
+Last updated: 02/01/2017 00:46:49 EST
